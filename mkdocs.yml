@@ -1,0 +1,10 @@
+site_name: Well-Known AWS Account IDs
+theme:
+  name: material
+  features:
+    - navigation.expand
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
