@@ -22,7 +22,6 @@ This is meant to be used with tools to remove the need for manual web searches.
     1. We want to ensure these account IDs are really for who they say they are.
     1. Some companies may not want their account IDs mentioned publicly.
 
-
 Each entry has the following schema:
 
 | Field    | Type             | Notes |

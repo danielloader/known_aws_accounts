@@ -15,6 +15,16 @@ The reasons for this are:
 1. We want to ensure these account IDs are really for who they say they are.
 1. Some companies may not want their account IDs mentioned publicly.
 
+Preview of Published Docs
+
+For local development you will need Python 3.8+.
+
+```shell
+python3 -m venv .venv # create virtualenv
+source .venv/bin/activate # activate virtualenv
+pip install -r requirements.txt # install requirements
+mkdocs serve 
+
 ## History
 
 Copied from https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml which originally copied
