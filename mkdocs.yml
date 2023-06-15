@@ -1,4 +1,4 @@
-site_name: Well-Known AWS Account IDs
+site_name: Known AWS Account IDs
 theme:
   name: material
   features:
